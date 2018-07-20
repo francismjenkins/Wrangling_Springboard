@@ -1,7 +1,5 @@
-# Capston Project
-# Data Wrangling
-# Frank Jenkins
-# Springboard, Intermediate Python
+# Capston Project - Data Wrangling
+# Frank Jenkins - Springboard, Intermediate Python
 
 This project will seek to predict the lifestyle factors which increase the risk of cancer. The dataset used was taken from The Cancer 
 Genome Atlas (TCGA). The analytical techniques that will be used are a differential expression analysis and a coexpression analysis.
