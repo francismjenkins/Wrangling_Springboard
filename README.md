@@ -12,6 +12,5 @@ The last two digits in the column headers tells us whether a column contains exp
 Regular expressions were used to filter the data (and segregate cancer from normal cells).
 
 After performing analytics (e.g. correlation analysis, clustering, and other tests), a functional analysis will be done on genes 
-which are predicted to play a role in cancer. In this case, the cancer type under investigation is clear cell renal carcinoma. 
-
-The original dataset has been log2 transformed and normalized, which reduces the number of steps needed to preprocess the data. 
+which are predicted to play a role in cancer. In this case, the cancer type under investigation is clear cell renal carcinoma. The 
+original dataset has been log2 transformed and normalized, which reduces the number of steps needed to preprocess the data. 
