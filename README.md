@@ -11,9 +11,6 @@ Because the dataset contains gene expression values for both normal and cancer c
 The last two digits in the column headers tells us whether a column contains expression values from cancer or normal cells.
 Regular expressions were used to filter the data (and segregate cancer from normal cells).
 
-For the purpose of gene expression analysis, outliers can be retained in the dataset. However, low expression values may
-need to be removed. 
-
 After performing analytics (e.g. correlation analysis, clustering, and other tests), a functional analysis will be done on genes 
 which are predicted to play a role in cancer. In this case, the cancer type under investigation is clear cell renal carcinoma. 
 
